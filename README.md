@@ -16,6 +16,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/oskar_k)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=oskar_k)](https://github.com/oskarklkt/github-readme)
+
 <h3 align="left">Codewars stats:</h3>
 
 [![Codewars Badge](https://www.codewars.com/users/oskar_k/badges/large)](https://www.codewars.com/users/oskar_k)
