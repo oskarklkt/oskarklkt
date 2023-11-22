@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Oskar Klekot</h1>
+<h1 align="center">Oskar Klekot</h1>
 <h3 align="center">A passionate Java Developer from Poland</h3>
 
-- 🌱 I’m currently learning **Spring**
+- 📚 I’m currently learning **Spring**
 
-- 📫 How to reach me **oskar.klekot@gmail.com**
+- 📧 my email address: **oskar.klekot@gmail.com**
+
 
 <p align="left">
 </p>
