@@ -16,7 +16,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/oskar_k)
 
-[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/oskar_k)
+[![Codewars Badge](https://www.codewars.com/users/oskar_k/badges/large)](https://www.codewars.com/users/oskar_k)
 
 
 
