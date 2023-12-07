@@ -1,8 +1,6 @@
 <h1 align="center">Oskar Klekot</h1>
 <h3 align="center">A passionate Java Developer from Poland</h3>
 
-
-- 📧 my email address: **oskar.klekot@gmail.com**
 ---
 
 <p align="center">
@@ -36,14 +34,6 @@
 [![My programming skills](https://skillicons.dev/icons?i=spring,docker,postman,js)](https://skillicons.dev)
 
 ---
-
-<h3 align="center">Leetcode stats:</h3>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/oskar_k)
-
-<h3 align="center">Codewars stats:</h3>
-
-[![Codewars Badge](https://www.codewars.com/users/oskar_k/badges/large)](https://www.codewars.com/users/oskar_k)
 
 
 
