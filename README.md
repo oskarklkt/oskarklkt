@@ -31,7 +31,7 @@
 <h4 align="center">Learning now:</h4>
 <div align="center">
 
-[![My programming skills](https://skillicons.dev/icons?i=spring,docker,postman,js)](https://skillicons.dev)
+[![My programming skills](https://skillicons.dev/icons?i=spring,docker,postman)](https://skillicons.dev)
 
 ---
 
