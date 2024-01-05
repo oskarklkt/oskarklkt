@@ -36,5 +36,5 @@
 ---
 
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/oskar_k?theme=nord&font=Aclonica)
 
