@@ -38,3 +38,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/oskar_k?theme=nord&font=Aclonica)
 
+---
+
+![Codewars](https://github.r2v.ch/codewars?user=oskar_k&stroke=%23BB432C)
