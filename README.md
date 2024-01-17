@@ -34,3 +34,7 @@
 [![My programming skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 
 ---
+
+![LeetCode Stats](https://leetcode.card.workers.dev/oskar_k?theme=nord&font=baloo&extension=null)
+
+![Codewars](https://github.r2v.ch/codewars?user=oskar_k&theme=gradient)
