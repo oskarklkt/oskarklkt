@@ -31,7 +31,7 @@
 <h4 align="center">What I'm going to learn soon:</h4>
 <div align="center">
 
-[![My programming skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
+[![My programming skills](https://skillicons.dev/icons?i=js,angular)](https://skillicons.dev)
 
 ---
 
